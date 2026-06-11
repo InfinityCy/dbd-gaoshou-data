@@ -1,5 +1,4 @@
 {
-  "version": 1781198162239,
   "maps_grids": {
     "m2": [
       {
@@ -454,6 +453,148 @@
         "fixed": false,
         "label": ""
       }
+    ],
+    "m1781198930864": [
+      {
+        "col": 1,
+        "row": 1,
+        "color": "gray",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 2,
+        "row": 1,
+        "color": "gray",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 3,
+        "row": 1,
+        "color": "gray",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 4,
+        "row": 1,
+        "color": "gray",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 5,
+        "row": 1,
+        "color": "gray",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 1,
+        "row": 2,
+        "color": "gray",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 2,
+        "row": 2,
+        "color": "gray",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 3,
+        "row": 2,
+        "color": "gray",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 4,
+        "row": 2,
+        "color": "gray",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 5,
+        "row": 2,
+        "color": "gray",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 1,
+        "row": 3,
+        "color": "gray",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 2,
+        "row": 3,
+        "color": "gray",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 3,
+        "row": 3,
+        "color": "gray",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 4,
+        "row": 3,
+        "color": "gray",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 5,
+        "row": 3,
+        "color": "gray",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 1,
+        "row": 4,
+        "color": "gray",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 2,
+        "row": 4,
+        "color": "gray",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 3,
+        "row": 4,
+        "color": "gray",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 4,
+        "row": 4,
+        "color": "gray",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 5,
+        "row": 4,
+        "color": "gray",
+        "fixed": false,
+        "label": ""
+      }
     ]
   },
   "maps_tags": {},
@@ -489,7 +630,7 @@
     {
       "id": "m1",
       "name": "教堂 · 克洛普瑞恩疯人院",
-      "sizeW": 101,
+      "sizeW": 96,
       "sizeH": 128,
       "tiles": 22,
       "realm": "克洛普瑞恩",
@@ -557,6 +698,19 @@
       "killerFav": false,
       "survFav": false,
       "desc": "最大地图，适合隐匿玩法但发电机分布散"
+    },
+    {
+      "id": "m1781198930864",
+      "name": "测试",
+      "sizeW": 96,
+      "sizeH": 96,
+      "tiles": 20,
+      "realm": "123",
+      "newbie": false,
+      "killerFav": false,
+      "survFav": false,
+      "desc": ""
     }
-  ]
+  ],
+  "version": 1781198943384
 }
