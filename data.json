@@ -1,0 +1,562 @@
+{
+  "version": 1781198162239,
+  "maps_grids": {
+    "m2": [
+      {
+        "col": 1,
+        "row": 1,
+        "color": "green",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 2,
+        "row": 1,
+        "color": "yellow",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 3,
+        "row": 1,
+        "color": "gray",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 4,
+        "row": 1,
+        "color": "green",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 1,
+        "row": 2,
+        "color": "yellow",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 2,
+        "row": 2,
+        "color": "purple",
+        "fixed": true,
+        "label": "马戏表演"
+      },
+      {
+        "col": 3,
+        "row": 2,
+        "color": "purple",
+        "fixed": true,
+        "label": "马戏表演"
+      },
+      {
+        "col": 4,
+        "row": 2,
+        "color": "gray",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 5,
+        "row": 2,
+        "color": "yellow",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 1,
+        "row": 3,
+        "color": "gray",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 2,
+        "row": 3,
+        "color": "purple",
+        "fixed": true,
+        "label": "大房"
+      },
+      {
+        "col": 3,
+        "row": 3,
+        "color": "purple",
+        "fixed": true,
+        "label": "大房"
+      },
+      {
+        "col": 4,
+        "row": 3,
+        "color": "yellow",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 5,
+        "row": 3,
+        "color": "gray",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 1,
+        "row": 4,
+        "color": "green",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 2,
+        "row": 4,
+        "color": "yellow",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 3,
+        "row": 4,
+        "color": "yellow",
+        "fixed": true,
+        "label": "小白房"
+      },
+      {
+        "col": 4,
+        "row": 4,
+        "color": "gray",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 5,
+        "row": 4,
+        "color": "yellow",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 2,
+        "row": 5,
+        "color": "green",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 3,
+        "row": 5,
+        "color": "green",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 4,
+        "row": 5,
+        "color": "gray",
+        "fixed": false,
+        "label": ""
+      }
+    ],
+    "m1781196851635": [
+      {
+        "col": 1,
+        "row": 1,
+        "color": "gray",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 2,
+        "row": 1,
+        "color": "gray",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 3,
+        "row": 1,
+        "color": "gray",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 4,
+        "row": 1,
+        "color": "gray",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 5,
+        "row": 1,
+        "color": "gray",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 1,
+        "row": 2,
+        "color": "gray",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 2,
+        "row": 2,
+        "color": "gray",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 3,
+        "row": 2,
+        "color": "gray",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 4,
+        "row": 2,
+        "color": "gray",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 5,
+        "row": 2,
+        "color": "gray",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 1,
+        "row": 3,
+        "color": "gray",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 2,
+        "row": 3,
+        "color": "gray",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 3,
+        "row": 3,
+        "color": "green",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 4,
+        "row": 3,
+        "color": "gray",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 5,
+        "row": 3,
+        "color": "gray",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 1,
+        "row": 4,
+        "color": "gray",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 2,
+        "row": 4,
+        "color": "gray",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 3,
+        "row": 4,
+        "color": "gray",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 4,
+        "row": 4,
+        "color": "gray",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 5,
+        "row": 4,
+        "color": "gray",
+        "fixed": false,
+        "label": ""
+      }
+    ],
+    "m1": [
+      {
+        "col": 1,
+        "row": 1,
+        "color": "green",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 2,
+        "row": 1,
+        "color": "yellow",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 3,
+        "row": 1,
+        "color": "gray",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 4,
+        "row": 1,
+        "color": "green",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 1,
+        "row": 2,
+        "color": "yellow",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 2,
+        "row": 2,
+        "color": "purple",
+        "fixed": true,
+        "label": "马戏表演"
+      },
+      {
+        "col": 3,
+        "row": 2,
+        "color": "purple",
+        "fixed": true,
+        "label": "马戏表演"
+      },
+      {
+        "col": 4,
+        "row": 2,
+        "color": "gray",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 5,
+        "row": 2,
+        "color": "yellow",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 1,
+        "row": 3,
+        "color": "gray",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 2,
+        "row": 3,
+        "color": "purple",
+        "fixed": true,
+        "label": "大房"
+      },
+      {
+        "col": 3,
+        "row": 3,
+        "color": "purple",
+        "fixed": true,
+        "label": "大房"
+      },
+      {
+        "col": 4,
+        "row": 3,
+        "color": "yellow",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 5,
+        "row": 3,
+        "color": "gray",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 1,
+        "row": 4,
+        "color": "green",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 2,
+        "row": 4,
+        "color": "yellow",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 3,
+        "row": 4,
+        "color": "purple",
+        "fixed": true,
+        "label": "小白房"
+      },
+      {
+        "col": 4,
+        "row": 4,
+        "color": "gray",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 5,
+        "row": 4,
+        "color": "yellow",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 2,
+        "row": 5,
+        "color": "green",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 3,
+        "row": 5,
+        "color": "green",
+        "fixed": false,
+        "label": ""
+      },
+      {
+        "col": 4,
+        "row": 5,
+        "color": "gray",
+        "fixed": false,
+        "label": ""
+      }
+    ]
+  },
+  "maps_tags": {},
+  "maps_guides": {},
+  "guide_content": [
+    {
+      "id": "g1",
+      "title": "🎯 【新手首选】入门第一步",
+      "content": "先熟悉基础操作：修发电机（空格键技能检查）、翻窗翻板（Shift+方向）、救人（鼠标左键）。建议先用逃生者玩5-10局熟悉地图和基本操作。"
+    },
+    {
+      "id": "g2",
+      "title": "🗺️ 地图从哪里开始学？",
+      "content": "从教堂和煤矿两张新手地图开始，熟悉大房、板区、小白房的位置关系。每张地图都可用本App的地图查询功能查看详细地块分布。"
+    },
+    {
+      "id": "g3",
+      "title": "💡 新手必装技能推荐",
+      "content": "逃生者：冲刺爆发（Sprint Burst）→ 被追时加速跑；钢铁意志（Iron Will）→ 受伤不叫；自我疗愈（Self-Care）→ 自己摸自己。"
+    },
+    {
+      "id": "g4",
+      "title": "⚠️ 【避坑】新手不要做的事",
+      "content": "❌ 开局就到处乱跑留下脚印\n❌ 听到心跳还不跑\n❌ 队友被挂时不看情况就冲去救人\n❌ 地窖未出现前在杀手面前蹲起嘲讽"
+    },
+    {
+      "id": "g5",
+      "title": "🎮 推荐新手杀手",
+      "content": "陷阱杀手（The Trapper）：机制简单，放夹子封路即可。幽灵杀手（The Wraith）：隐身接近，适合练习基础追杀。"
+    }
+  ],
+  "maps_list": [
+    {
+      "id": "m1",
+      "name": "教堂 · 克洛普瑞恩疯人院",
+      "sizeW": 101,
+      "sizeH": 128,
+      "tiles": 22,
+      "realm": "克洛普瑞恩",
+      "newbie": true,
+      "killerFav": false,
+      "survFav": true,
+      "desc": "新手最友好的地图之一，布局清晰"
+    },
+    {
+      "id": "m2",
+      "name": "煤矿 · 萨法克斯煤矿",
+      "sizeW": 96,
+      "sizeH": 96,
+      "tiles": 18,
+      "realm": "煤矿",
+      "newbie": true,
+      "killerFav": false,
+      "survFav": false,
+      "desc": "紧凑型地图，适合练习近距离周旋"
+    },
+    {
+      "id": "m3",
+      "name": "废弃农场 · 腐烂田野",
+      "sizeW": 112,
+      "sizeH": 112,
+      "tiles": 24,
+      "realm": "冷风农场",
+      "newbie": false,
+      "killerFav": true,
+      "survFav": false,
+      "desc": "开阔地形，杀手占据视野优势"
+    },
+    {
+      "id": "m4",
+      "name": "庄园 · 克洛普瑞恩庄园",
+      "sizeW": 96,
+      "sizeH": 128,
+      "tiles": 22,
+      "realm": "克洛普瑞恩",
+      "newbie": true,
+      "killerFav": false,
+      "survFav": true,
+      "desc": "双层建筑，楼上楼下转点丰富"
+    },
+    {
+      "id": "m5",
+      "name": "小学 · 巴德姆幼儿园",
+      "sizeW": 96,
+      "sizeH": 96,
+      "tiles": 20,
+      "realm": "春木镇",
+      "newbie": false,
+      "killerFav": false,
+      "survFav": true,
+      "desc": "室内外混合，教室区域板区密集"
+    },
+    {
+      "id": "m6",
+      "name": "红木林地 · 母亲住所",
+      "sizeW": 128,
+      "sizeH": 128,
+      "tiles": 28,
+      "realm": "红木森林",
+      "newbie": false,
+      "killerFav": false,
+      "survFav": false,
+      "desc": "最大地图，适合隐匿玩法但发电机分布散"
+    }
+  ]
+}
