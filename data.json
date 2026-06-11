@@ -1699,14 +1699,14 @@
       {
         "col": 2,
         "row": 1,
-        "color": "gray",
+        "color": "purple",
         "fixed": false,
-        "label": ""
+        "label": "白房"
       },
       {
         "col": 3,
         "row": 1,
-        "color": "gray",
+        "color": "purple",
         "fixed": false,
         "label": ""
       },
@@ -1754,11 +1754,7 @@
       }
     ]
   },
-  "maps_tags": {
-    "m1": [
-      "平衡地图"
-    ]
-  },
+  "maps_tags": {},
   "maps_guides": {},
   "guide_content": [
     {
@@ -1804,6 +1800,14 @@
           "rows": 5,
           "sizeW": 96,
           "sizeH": 128
+        },
+        {
+          "id": "l2",
+          "name": "新图层",
+          "cols": 3,
+          "rows": 3,
+          "sizeW": 64,
+          "sizeH": 64
         }
       ]
     },
@@ -1911,5 +1915,5 @@
       ]
     }
   ],
-  "version": 1781201353262
+  "version": 1781201572482
 }
